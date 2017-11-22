@@ -1,0 +1,1 @@
+var titles = {"14866558073673370352":{"name":"Splatoon™"},"14866558073268532636":{"name":"Mario Kart 8"},"6437256808751874777":{"name":"Super Mario Maker"},"6437256808834406317":{"name":"Minecraft: Wii U Edition"},"14866558073025777349":{"name":"Super Mario World"},"14866558072986287268":{"name":"New SUPER MARIO BROS. U"}};
